@@ -1,4 +1,3 @@
-/*complete!!! see panopto*/
 
 const brands = ["bmw :)", "fiat :(", "seat :(", "ferrari :)"];
 
